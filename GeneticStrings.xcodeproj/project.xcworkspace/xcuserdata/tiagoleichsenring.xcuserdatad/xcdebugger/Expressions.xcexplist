@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "PopulationManager.FixedGenerate(_:):PopulationManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "populationCrafter.Individuals.first">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewModelBase.getValue&lt;A&gt;(_:):ViewModelBase.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "uiViews">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Validation.validateTextFields():Validation.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PopulationCrafter.MatchPopulation(oldPopulation:populationLimit:):PopulationCrafter.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PopulationManager.AutoGenerate():PopulationManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "population.Individuals.count">
+            </PersistentString>
+            <PersistentString
+               value = "self.mutationDeviant">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewModelBase.setValue(_:newValue:):ViewModelBase.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "uiViews">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static IndividualFitnessCalculator.GetGenesValue(_:_:):IndividualFitnessCalculator.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "individual.Identity.count">
+            </PersistentString>
+            <PersistentString
+               value = "objective.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PopulationCrafter.Mutate(identity:):PopulationCrafter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.bodyLength">
+            </PersistentString>
+            <PersistentString
+               value = "individualMutated.startIndex">
+            </PersistentString>
+            <PersistentString
+               value = "identity.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PopulationCrafter.ProcreateBySelectedPopulation(oldIndividuals:populationLimit:):PopulationCrafter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Individuals.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewModel.limitPopulation.getter:ViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "getValue(&quot;limitPopulationText&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewModel.goButtonTapped(_:):ViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewModel.textChanged(_:):ViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "inputAccessoryText">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PopulationCrafter.EliminateWeaks(_:):PopulationCrafter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Individuals.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UIView.setValue&lt;A&gt;(_:):UIViewBinding.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "textField.text">
+            </PersistentString>
+            <PersistentString
+               value = "label.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
